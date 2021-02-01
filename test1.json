@@ -1,4 +1,26 @@
 {
+	"_meta": {
+		"sources": [
+			{
+				"json": "V&KGoblinPackage",
+				"abbreviation": "GP",
+				"full": "Goblin Pack",
+				"url": "https://github.com/TheGiddyLimit/homebrew",
+				"authors": [
+					"MrVauxs",
+					"Kanekuo"
+				],
+				"convertedBy": [
+					"MrVauxs"
+				],
+				"version": "0.0.0"
+			}
+		],
+		"dateAdded": 1574617011,
+		"dateLastModified": 1574617011
+	},
+	"monster": [
+{
 	"name": "Mordakhesh",
 	"isNamedCreature": true,
 	"source": "Blawatest",
@@ -194,4 +216,6 @@
 			}
 		]
 	}
+}
+		]
 }
